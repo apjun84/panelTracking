@@ -1,0 +1,19 @@
+{
+  "name": "tracking_webapp",
+  "version": "1.0.0",
+  "description": "This is a traicking app for ACQBUILT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apjun84/panelTracking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apjun84/panelTracking/issues"
+  },
+  "homepage": "https://github.com/apjun84/panelTracking#readme"
+}
